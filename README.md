@@ -47,8 +47,6 @@ git clone https://github.com/SeuUsuario/BudaLogin.git
 
 2. Open `index.html` in your web browser.
 
-**Have fun trying to log in — but beware, patience might run out! 😂**
+**Have fun trying to log in — but beware, patience might run out! **
 
----
-
-Let me know if you'd like me to adjust anything further!
+thanks !
