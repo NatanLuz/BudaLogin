@@ -1,39 +1,54 @@
-Hoje
-# BudaLogin 🧘‍♂️💻 [![Preview do BudaLogin](https://i.imgur.com/t8nCBID.png)](https://i.imgur.com/t8nCBID.png) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) --- ## Sobre o Projeto **BudaLogin** é um sistema de login criado **para zoar e frustrar usuários** com burocracias inúteis, captchas matemáticos troll e campos complexos. Ao mesmo tempo, foi feito **como aprendizado de JavaScript, HTML e CSS**, para testar manipulação de DOM, validações e interatividade avançada. --- ## Funcionalidades Troll/Burocráticas - Apelido deve estar em **números romanos** e começar com maiúscula. - Senha precisa ter **mínimo de 12 caracteres**, **número duplo**, **minutos atuais**, **ano atual** e **símbolo especial no final**. - **Captcha matemático troll**, com equações frustrantes. - Inputs podem **resetar aleatoriamente**. - **Email** deve ter no mínimo 3 letras antes do `@` e terminar com `.com`, `.net` ou `.org`. - Senha não pode ter letras repetidas consecutivas. - Feedback confuso e engraçado para cada tentativa. - Timeout do captcha de 20 segundos para aumentar a frustração. --- ## Como Usar 1. Clone o repositório: ```bash git clone https://github.com/SeuUsuario/BudaLogin.git Abra o index.html no navegador. Divirta-se tentando logar sem perder a paciência hahahahahaha me de esse readme em ingles
-Sure! Here's the English version of your README for BudaLogin:
+Certainly! Here's a polished and well-formatted version of your README in English:
 
-BudaLogin 🧘‍♂️💻
+---
 
+# BudaLogin 🧘‍♂️💻
 
-About the Project
-BudaLogin is a login system designed to troll and frustrate users with useless bureaucracy, tricky math captchas, and overly complex fields.
+![Preview of BudaLogin](https://i.imgur.com/t8nCBID.png)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-At the same time, it was built as a learning project in JavaScript, HTML, and CSS, to practice DOM manipulation, validation, and advanced interactivity.
+---
 
-Troll/Bureaucratic Features
-Nickname must be in Roman numerals and start with a capital letter.
+## About the Project
 
-Password must include at least 12 characters, a double digit, the current minute, the current year, and a special symbol at the end.
+**BudaLogin** is a login system designed to *playfully frustrate* users with unnecessary bureaucracy, tricky math captchas, and overly complex form fields.
 
-Troll math captcha, with frustrating equations.
+While it’s a fun project, it was also created as a learning experience in JavaScript, HTML, and CSS — practicing DOM manipulation, validation, and advanced interactivity.
 
-Inputs may randomly reset.
+---
 
-Email must have at least 3 letters before the @ and end with .com, .net, or .org.
+## Frustrating/Bureaucratic Features
 
-Password cannot have consecutive repeated letters.
+- **Nickname** must be in **Roman numerals** and start with a **capital letter**.
+- **Password** requirements:
+  - Minimum of **12 characters**
+  - Must include **double digits**
+  - Must contain the **current minute**
+  - Must include the **current year**
+  - Must end with a **special symbol**
+- **Math captcha** presents frustrating equations to solve.
+- Inputs may **reset randomly** to increase annoyance.
+- **Email** must have at least **3 letters before the `@`** and end with **`.com`**, **`.net`**, or **`.org`**.
+- Password **cannot** contain **consecutive repeated letters**.
+- Feedback messages are **confusing and humorous** for each attempt.
+- **Captcha** has a **20-second timeout** to add to the frustration.
 
-Confusing and funny feedback for every attempt.
+---
 
-20-second captcha timeout to increase frustration.
+## How to Use
 
-How to Use
-Clone the repository:
+1. Clone the repository:
 
+```bash
 git clone https://github.com/SeuUsuario/BudaLogin.git
+```
 
-Open index.html in your browser.
+2. Open `index.html` in your web browser.
 
-Have fun trying to log in without losing your patience hahahahahaha
+**Have fun trying to log in — but beware, patience might run out! 😂**
 
-thankss !!!!
+---
+
+Let me know if you'd like me to adjust anything further!
