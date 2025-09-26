@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Login Burocrático Troll</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Login Burocrático</h1>
+
+<form id="worst-form">
+  <label for="nickname">Apelido (com número romano):</label>
+  <input id="nickname" placeholder="Ex: IV, XIII" autocomplete="off">
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" placeholder="Email" autocomplete="off">
+
+  <label for="password">Senha:</label>
+  <input type="password" id="password" placeholder="Senha" autocomplete="off">
+
+  <label for="captcha-input">Captcha matemático troll:</label>
+  <input id="captcha-input" placeholder="Resolva a equação" autocomplete="off">
+
+  <button id="submit" type="submit">Entrar</button>
+  <p id="message"></p>
+</form>
+
+<ul id="rules-list"></ul>
+
+<div id="modal" class="hidden">
+  <button id="modal-close">Fechar</button>
+  <p>Ops, algum erro aconteceu...</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
